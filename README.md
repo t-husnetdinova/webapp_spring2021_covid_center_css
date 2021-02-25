@@ -1,4 +1,4 @@
-# webapp_spring2021_covid_center_css
+# CSCI4800 Classwork on CSS3
 
 Name: Tammy Husnetdinova <br>
 Class: CSCI4800-E01 <br>
